@@ -22,8 +22,10 @@ pod "PrivatePods"
 
 ## Author
 
-refrainc21@gmail.com, 317642637@qq.com
+refrainc21@gmail.com
 
 ## License
 
 PrivatePods is available under the MIT license. See the LICENSE file for more info.
+
+
