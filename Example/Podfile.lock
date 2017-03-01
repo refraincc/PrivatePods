@@ -1,0 +1,22 @@
+PODS:
+  - Expecta (1.0.5)
+  - PrivatePods (0.1.0)
+  - Specta (1.0.6)
+
+DEPENDENCIES:
+  - Expecta
+  - PrivatePods (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  PrivatePods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: e1c022fcd33910b6be89c291d2775b3fe27a89fe
+  PrivatePods: d06ad3131b5f508bacedecd3c729ddc5f1ccbcbd
+  Specta: f506f3a8361de16bc0dcf3b17b75e269072ba465
+
+PODFILE CHECKSUM: 38f5ffac85a12914d804f9391f42c1290ce1c1c9
+
+COCOAPODS: 1.1.1

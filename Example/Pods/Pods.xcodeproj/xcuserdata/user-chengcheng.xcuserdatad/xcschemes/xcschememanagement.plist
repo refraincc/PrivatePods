@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Expecta.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PrivatePods_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PrivatePods_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>PrivatePods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Specta.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0B115D1867CE3D389D9826D7A3CF8C96</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>189E4655A752576301DCDC91F8E63745</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>58C5A50D5E711FEBFE44E3AE4B0EA95E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5D161BA711701D7E41E02A5702FD024E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>975CCBB06D0E5918C7D1F42D5EAFC876</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
